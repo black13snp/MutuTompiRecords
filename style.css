@@ -1,8 +1,9 @@
-h1 { text-align:center; }
+h1 { text-align:center;font-size: 2rem; }
 .matale {text-align: center;margin-bottom: 0px;}
 .euro {font-size: 200px; text-align: center;margin-top: 0px;margin-bottom: 0px; position: relative;}
 .EEE {position:absolute;top: 220px;left: 220px;display:flex;gap:222px;}
 .EEE mark {background-color: white;}
 .audiobuc {text-align: center;margin-top: 0px;display: flex; flex-direction: column;align-items: center;}
 body {background-color: rgba(255, 170, 42, 0.37);filter:sepia(70%);filter: contrast(80%);}
+
 .audiobuc button {padding: 42px;border-radius: 290%;cursor: pointer;}
